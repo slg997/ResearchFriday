@@ -2,7 +2,7 @@
 
 The purpose of #ResearchFriday is help defenders to build network sensors to learn, test and profile attack tools and techniques in a safe and controlled environment.
 
-Network artefacts that could be then extracted and used to proactively search for, hunt or compile custom IDS signatures in your own network.
+Network artefacts that could be then extracted and used to proactively search for, hunt or compile custom signatures in your own network.
 
 ## Why?
 
